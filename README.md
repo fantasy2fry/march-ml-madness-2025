@@ -10,7 +10,14 @@ This project is carried out as part of the **Interdisciplinary Project** course.
 More information: [Kaggle Competition](https://kaggle.com/competitions/march-machine-learning-mania-2025)
 
 ## Schedule
-- TBA
+- 04.03.2025 - Exploratory Data Analysis (EDA)
+- 07.03.2025 - Initial models and transformations
+- 10.03.2025 - **Presentation of EDA and initial models**
+- [10.03 - 17.03] - Model refinement and hyperparameter tuning
+- 17.03.2025 - **Presentation of the nearly completed project**
+- 20.03.2025 - Final deadline
+- 24.03.2025 or 14.04.2025 - **Final Presentation**
+- [20.03 - 08.04] - Tournament: validation of predictions
 
 ## Team Members
 - [Norbert Frydrysiak](https://github.com/fantasy2fry)
