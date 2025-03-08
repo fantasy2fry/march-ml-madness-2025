@@ -1,0 +1,16 @@
+{
+    "model_type": "Logistic Regression",
+    "hyperparameters": {
+        "C": 0.1
+    },
+    "brier_score": 0.23085431138628343,
+    "predict_year": 2023,
+    "train_set_shape": [
+        176080,
+        10
+    ],
+    "test_set_shape": [
+        5602,
+        10
+    ]
+}
