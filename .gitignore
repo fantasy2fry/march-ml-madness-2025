@@ -383,3 +383,4 @@ $RECYCLE.BIN/
 
 # fantas2fry add
 data/*.csv
+.idea/
