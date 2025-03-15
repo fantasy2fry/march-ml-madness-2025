@@ -384,4 +384,6 @@ $RECYCLE.BIN/
 # fantas2fry add
 data/*.csv
 !data/elo.csv
+!data/final_elo_coach.csv
+!data/final_elo_team.csv
 .idea/
