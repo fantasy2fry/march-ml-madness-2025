@@ -1,0 +1,127 @@
+ID,Pred,Spread,Usage,ID1,ID2,TeamName.1,TeamName.2
+2025_1103_1112,0,-28,Actual,1103,1112,Akron,Arizona
+2025_1104_1140,1,25,Actual,1104,1140,Alabama,BYU
+2025_1104_1181,0,-20,Actual,1104,1181,Alabama,Duke
+2025_1104_1352,1,9,Actual,1104,1352,Alabama,Robert Morris
+2025_1104_1388,1,14,Actual,1104,1388,Alabama,St Mary's CA
+2025_1106_1120,0,-20,Actual,1106,1120,Alabama St,Auburn
+2025_1112_1181,0,-7,Actual,1112,1181,Arizona,Duke
+2025_1112_1332,1,4,Actual,1112,1332,Arizona,Oregon
+2025_1116_1242,1,7,Actual,1116,1242,Arkansas,Kansas
+2025_1116_1385,1,9,Actual,1116,1385,Arkansas,St John's
+2025_1116_1403,0,-2,Actual,1116,1403,Arkansas,Texas Tech
+2025_1120_1166,1,12,Actual,1120,1166,Auburn,Creighton
+2025_1120_1196,0,-6,Actual,1120,1196,Auburn,Florida
+2025_1120_1276,1,13,Actual,1120,1276,Auburn,Michigan
+2025_1120_1277,1,6,Actual,1120,1277,Auburn,Michigan St
+2025_1124_1181,0,-23,Actual,1124,1181,Baylor,Duke
+2025_1124_1280,1,3,Actual,1124,1280,Baylor,Mississippi St
+2025_1136_1277,0,-25,Actual,1136,1277,Bryant,Michigan St
+2025_1140_1433,1,9,Actual,1140,1433,BYU,VCU
+2025_1140_1458,1,2,Actual,1140,1458,BYU,Wisconsin
+2025_1155_1270,0,-2,Actual,1155,1270,Clemson,McNeese St
+2025_1161_1268,0,-1,Actual,1161,1268,Colorado St,Maryland
+2025_1161_1272,1,8,Actual,1161,1272,Colorado St,Memphis
+2025_1163_1196,0,-2,Actual,1163,1196,Connecticut,Florida
+2025_1163_1328,1,8,Actual,1163,1328,Connecticut,Oklahoma
+2025_1166_1257,1,14,Actual,1166,1257,Creighton,Louisville
+2025_1179_1281,1,10,Actual,1179,1281,Drake,Missouri
+2025_1179_1403,0,-13,Actual,1179,1403,Drake,Texas Tech
+2025_1181_1222,0,-3,Actual,1181,1222,Duke,Houston
+2025_1181_1291,1,44,Actual,1181,1291,Duke,Mt St Mary's
+2025_1188_1222,0,-38,Actual,1188,1222,SIUE,Houston
+2025_1196_1222,1,2,Actual,1196,1222,Florida,Houston
+2025_1196_1268,1,16,Actual,1196,1268,Florida,Maryland
+2025_1196_1313,1,26,Actual,1196,1313,Florida,Norfolk St
+2025_1196_1403,1,5,Actual,1196,1403,Florida,Texas Tech
+2025_1208_1211,0,-21,Actual,1208,1211,Georgia,Gonzaga
+2025_1211_1222,0,-5,Actual,1211,1222,Gonzaga,Houston
+2025_1213_1268,0,-32,Actual,1213,1268,Grand Canyon,Maryland
+2025_1219_1345,0,-12,Actual,1219,1345,High Point,Purdue
+2025_1222_1345,1,2,Actual,1222,1345,Houston,Purdue
+2025_1222_1397,1,19,Actual,1222,1397,Houston,Tennessee
+2025_1228_1246,0,-9,Actual,1228,1246,Illinois,Kentucky
+2025_1228_1462,1,13,Actual,1228,1462,Illinois,Xavier
+2025_1235_1252,1,27,Actual,1235,1252,Iowa St,Lipscomb
+2025_1235_1279,0,-13,Actual,1235,1279,Iowa St,Mississippi
+2025_1246_1397,0,-13,Actual,1246,1397,Kentucky,Tennessee
+2025_1246_1407,1,19,Actual,1246,1407,Kentucky,Troy
+2025_1251_1332,0,-29,Actual,1251,1332,Liberty,Oregon
+2025_1266_1307,0,-9,Actual,1266,1307,Marquette,New Mexico
+2025_1270_1345,0,-14,Actual,1270,1345,McNeese St,Purdue
+2025_1276_1401,1,12,Actual,1276,1401,Michigan,Texas A&M
+2025_1276_1471,1,3,Actual,1276,1471,Michigan,UC San Diego
+2025_1277_1279,1,3,Actual,1277,1279,Michigan St,Mississippi
+2025_1277_1307,1,8,Actual,1277,1307,Michigan St,New Mexico
+2025_1279_1314,1,7,Actual,1279,1314,Mississippi,North Carolina
+2025_1285_1458,0,-19,Actual,1285,1458,Montana,Wisconsin
+2025_1303_1385,0,-30,Actual,1303,1385,NE Omaha,St John's
+2025_1388_1435,1,3,Actual,1388,1435,St Mary's CA,Vanderbilt
+2025_1397_1417,1,9,Actual,1397,1417,Tennessee,UCLA
+2025_1397_1459,1,15,Actual,1397,1459,Tennessee,Wofford
+2025_1401_1463,1,9,Actual,1401,1463,Texas A&M,Yale
+2025_1403_1423,1,10,Actual,1403,1423,Texas Tech,UNC Wilmington
+2025_1417_1429,1,25,Actual,1417,1429,UCLA,Utah St
+2025_3104_3268,0,-3,Actual,3104,3268,Alabama,Maryland
+2025_3104_3453,1,14,Actual,3104,3453,Alabama,WI Green Bay
+2025_3117_3163,0,-69,Actual,3117,3163,Arkansas St,Connecticut
+2025_3123_3279,0,-18,Actual,3123,3279,Ball St,Mississippi
+2025_3124_3213,1,13,Actual,3124,3213,Baylor,Grand Canyon
+2025_3124_3279,0,-6,Actual,3124,3279,Baylor,Mississippi
+2025_3143_3280,0,-13,Actual,3143,3280,California,Mississippi St
+2025_3162_3452,0,-19,Actual,3162,3452,Columbia,West Virginia
+2025_3163_3328,1,23,Actual,3163,3328,Connecticut,Oklahoma
+2025_3163_3355,1,34,Actual,3163,3355,Connecticut,S Dakota St
+2025_3163_3376,1,23,Actual,3163,3376,Connecticut,South Carolina
+2025_3163_3417,1,34,Actual,3163,3417,Connecticut,UCLA
+2025_3163_3425,1,14,Actual,3163,3425,Connecticut,USC
+2025_3166_3228,0,-9,Actual,3166,3228,Creighton,Illinois
+2025_3181_3250,1,61,Actual,3181,3250,Duke,Lehigh
+2025_3181_3314,1,11,Actual,3181,3314,Duke,North Carolina
+2025_3181_3332,1,6,Actual,3181,3332,Duke,Oregon
+2025_3181_3376,0,-4,Actual,3181,3376,Duke,South Carolina
+2025_3192_3395,0,-22,Actual,3192,3395,F Dickinson,TCU
+2025_3193_3243,0,-44,Actual,3193,3243,Fairfield,Kansas St
+2025_3195_3328,0,-23,Actual,3195,3328,FGCU,Oklahoma
+2025_3199_3206,1,35,Actual,3199,3206,Florida St,George Mason
+2025_3199_3261,0,-30,Actual,3199,3261,Florida St,LSU
+2025_3210_3350,0,-25,Actual,3210,3350,Georgia Tech,Richmond
+2025_3217_3277,0,-14,Actual,3217,3277,Harvard,Michigan St
+2025_3228_3400,0,-17,Actual,3228,3400,Illinois,Texas
+2025_3231_3376,0,-11,Actual,3231,3376,Indiana,South Carolina
+2025_3231_3428,1,8,Actual,3231,3428,Indiana,Utah
+2025_3234_3293,1,35,Actual,3234,3293,Iowa,Murray St
+2025_3234_3328,0,-34,Actual,3234,3328,Iowa,Oklahoma
+2025_3235_3276,0,-6,Actual,3235,3276,Iowa St,Michigan
+2025_3243_3246,1,1,Actual,3243,3246,Kansas St,Kentucky
+2025_3243_3425,0,-6,Actual,3243,3425,Kansas St,USC
+2025_3246_3251,1,1,Actual,3246,3251,Kentucky,Liberty
+2025_3257_3304,1,5,Actual,3257,3304,Louisville,Nebraska
+2025_3257_3395,0,-15,Actual,3257,3395,Louisville,TCU
+2025_3261_3301,1,7,Actual,3261,3301,LSU,NC State
+2025_3261_3361,1,55,Actual,3261,3361,LSU,San Diego St
+2025_3261_3417,0,-4,Actual,3261,3417,LSU,UCLA
+2025_3268_3313,1,13,Actual,3268,3313,Maryland,Norfolk St
+2025_3268_3376,0,-4,Actual,3268,3376,Maryland,South Carolina
+2025_3276_3323,0,-21,Actual,3276,3323,Michigan,Notre Dame
+2025_3277_3301,0,-34,Actual,3277,3301,Michigan St,NC State
+2025_3279_3417,0,-14,Actual,3279,3417,Mississippi,UCLA
+2025_3280_3425,0,-37,Actual,3280,3425,Mississippi St,USC
+2025_3286_3326,0,-20,Actual,3286,3326,Montana St,Ohio St
+2025_3301_3436,1,20,Actual,3301,3436,NC State,Vermont
+2025_3314_3333,1,21,Actual,3314,3333,North Carolina,Oregon St
+2025_3314_3452,1,11,Actual,3314,3452,North Carolina,West Virginia
+2025_3323_3372,1,52,Actual,3323,3372,Notre Dame,SF Austin
+2025_3323_3395,0,-9,Actual,3323,3395,Notre Dame,TCU
+2025_3326_3397,0,-15,Actual,3326,3397,Ohio St,Tennessee
+2025_3329_3355,0,-6,Actual,3329,3355,Oklahoma St,S Dakota St
+2025_3332_3435,1,4,Actual,3332,3435,Oregon,Vanderbilt
+2025_3350_3417,0,-17,Actual,3350,3417,Richmond,UCLA
+2025_3376_3399,1,60,Actual,3376,3399,South Carolina,Tennessee Tech
+2025_3376_3400,1,17,Actual,3376,3400,South Carolina,Texas
+2025_3378_3397,0,-35,Actual,3378,3397,South Florida,Tennessee
+2025_3380_3417,0,-38,Actual,3380,3417,Southern Univ,UCLA
+2025_3395_3400,0,-11,Actual,3395,3400,TCU,Texas
+2025_3397_3400,0,-8,Actual,3397,3400,Tennessee,Texas
+2025_3400_3456,1,44,Actual,3400,3456,Texas,William & Mary
+2025_3422_3425,0,-46,Actual,3422,3425,UNC Greensboro,USC
